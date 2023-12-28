@@ -1,0 +1,83 @@
+Token<KEYWORD, int, 1, 4>
+Token<KEYWORD, main, 1, 9>
+Token<SPECIAL CHARACTER, (, 1, 9>
+Token<SPECIAL CHARACTER, ), 1, 10>
+Token<SPECIAL CHARACTER, {, 1, 12>
+Token<KEYWORD, if, 3, 6>
+Token<SPECIAL CHARACTER, (, 3, 7>
+Token<IDENTIFIER, x, 3, 9>
+Token<OPERATOR, =, 3, 10>
+Token<OPERATOR, =, 3, 11>
+Token<NUMBER, 42, 3, 15>
+Token<SPECIAL CHARACTER, ), 3, 15>
+Token<SPECIAL CHARACTER, {, 3, 17>
+Token<KEYWORD, for, 7, 12>
+Token<SPECIAL CHARACTER, (, 7, 13>
+Token<KEYWORD, int, 7, 17>
+Token<IDENTIFIER, i, 7, 19>
+Token<OPERATOR, =, 7, 20>
+Token<NUMBER, 0, 7, 23>
+Token<SPECIAL CHARACTER, ;, 7, 23>
+Token<IDENTIFIER, i, 7, 26>
+Token<OPERATOR, <, 7, 27>
+Token<NUMBER, 10, 7, 31>
+Token<SPECIAL CHARACTER, ;, 7, 31>
+Token<IDENTIFIER, i, 7, 34>
+Token<OPERATOR, +, 7, 34>
+Token<OPERATOR, +, 7, 35>
+Token<SPECIAL CHARACTER, ), 7, 36>
+Token<SPECIAL CHARACTER, {, 7, 38>
+Token<IDENTIFIER, y, 8, 14>
+Token<OPERATOR, =, 8, 15>
+Token<IDENTIFIER, y, 8, 18>
+Token<OPERATOR, +, 8, 19>
+Token<IDENTIFIER, i, 8, 22>
+Token<SPECIAL CHARACTER, ;, 8, 22>
+Token<SPECIAL CHARACTER, }, 9, 9>
+Token<SPECIAL CHARACTER, }, 10, 5>
+Token<KEYWORD, else, 10, 11>
+Token<SPECIAL CHARACTER, {, 10, 12>
+Token<IDENTIFIER, y, 11, 10>
+Token<OPERATOR, =, 11, 11>
+Token<NUMBER, 3.1, 11, 16>
+Token<SPECIAL CHARACTER, ;, 11, 16>
+Token<SPECIAL CHARACTER, }, 12, 4>
+Token<KEYWORD, int, 14, 8>
+Token<IDENTIFIER, z, 14, 10>
+Token<SPECIAL CHARACTER, ;, 14, 10>
+Token<KEYWORD, while, 15, 10>
+Token<SPECIAL CHARACTER, (, 15, 10>
+Token<IDENTIFIER, x, 15, 12>
+Token<OPERATOR, >, 15, 12>
+Token<IDENTIFIER, y, 15, 14>
+Token<SPECIAL CHARACTER, ), 15, 14>
+Token<SPECIAL CHARACTER, {, 15, 16>
+Token<IDENTIFIER, y, 16, 10>
+Token<OPERATOR, +, 16, 10>
+Token<OPERATOR, +, 16, 11>
+Token<SPECIAL CHARACTER, ;, 16, 12>
+Token<IDENTIFIER, x, 17, 10>
+Token<OPERATOR, -, 17, 10>
+Token<OPERATOR, -, 17, 11>
+Token<SPECIAL CHARACTER, ;, 17, 12>
+Token<SPECIAL CHARACTER, }, 18, 5>
+Token<KEYWORD, if, 20, 7>
+Token<SPECIAL CHARACTER, (, 20, 7>
+Token<IDENTIFIER, x, 20, 9>
+Token<OPERATOR, =, 20, 9>
+Token<OPERATOR, =, 20, 10>
+Token<NUMBER, 5, 20, 12>
+Token<OPERATOR, &, 20, 12>
+Token<OPERATOR, &, 20, 13>
+Token<IDENTIFIER, y, 20, 15>
+Token<OPERATOR, >, 20, 15>
+Token<IDENTIFIER, z, 20, 17>
+Token<SPECIAL CHARACTER, ), 20, 17>
+Token<IDENTIFIER, x, 20, 20>
+Token<OPERATOR, =, 20, 20>
+Token<NUMBER, 4, 20, 22>
+Token<SPECIAL CHARACTER, ;, 20, 22>
+Token<KEYWORD, return, 21, 11>
+Token<NUMBER, 0, 21, 13>
+Token<SPECIAL CHARACTER, ;, 21, 13>
+Token<SPECIAL CHARACTER, }, 22, 1>
